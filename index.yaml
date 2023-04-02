@@ -3,7 +3,7 @@ entries:
   api-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-01T21:31:09.731868-04:00"
+    created: "2023-04-01T21:43:33.647778-04:00"
     description: helm chart for interview process
     digest: f8537c8fd957e9b4aeb2e64850c8b852e1736abd75d863d3d3d45bdc507c7260
     maintainers:
@@ -14,4 +14,18 @@ entries:
     urls:
     - api-service-0.1.1.tgz
     version: 0.1.1
-generated: "2023-04-01T21:31:09.729997-04:00"
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-04-01T21:43:33.648163-04:00"
+    description: helm chart for interview process
+    digest: ab0780eff1f0f16db471c2c38b30d31ebb8f127f5549c1a5603397c67c38fd9d
+    maintainers:
+    - email: dev.local@gmail.com
+      name: dev
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-04-01T21:43:33.647211-04:00"
